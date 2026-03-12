@@ -90,7 +90,7 @@ Yes. Run `/subscribe` again and select the higher tier. Upgrades activate immedi
 Simply don't renew. Your subscription expires at the end of the billing period. The bot stops trading when your subscription lapses.
 
 ### Is there a free trial?
-Not currently. The Starter plan at $25/month is the entry point.
+Yes. New users get a **14-day free Standard trial** before choosing a paid plan.
 
 ## Support
 

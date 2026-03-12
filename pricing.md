@@ -1,6 +1,6 @@
 # Pricing
 
-AutoPerp offers three subscription tiers. All plans include the core V6 Strategy Engine, Telegram control, and risk management. Higher tiers unlock more pairs, higher leverage, and additional features.
+AutoPerp offers a 14-day free Standard trial for new users, followed by three paid subscription tiers. All plans include the core V6 Strategy Engine, Telegram control, and risk management. Higher tiers unlock more pairs, higher leverage, and additional features.
 
 ## Plan Comparison
 

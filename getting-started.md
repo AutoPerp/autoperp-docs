@@ -8,9 +8,11 @@ Go to [@autoperpbot](https://t.me/autoperpbot) on Telegram and press **Start** o
 
 The bot will greet you and walk you through the initial setup.
 
-## Step 2: Subscribe
+## Step 2: Start Your Trial or Subscribe
 
-Type `/subscribe` to see available plans:
+New users get a **14-day free Standard trial** automatically on first `/start`, or you can use `/trial` to begin it manually if prompted.
+
+When you're ready for a paid plan, type `/subscribe` to see available options:
 
 | Plan | Price | What You Get |
 |------|-------|-------------|
