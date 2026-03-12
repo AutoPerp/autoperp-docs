@@ -74,7 +74,6 @@ Pay once, trade forever. The ultimate package for committed traders.
 All payments are handled via crypto:
 
 - **SOL** — Solana native token
-- **USDC** — On Solana
 
 To subscribe:
 1. Type `/subscribe` in [@autoperpbot](https://t.me/autoperpbot)

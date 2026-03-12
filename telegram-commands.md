@@ -15,7 +15,7 @@ Full reference for all AutoPerp bot commands. Use these in your chat with [@auto
 Opens the bot and shows the welcome message with quick-start instructions. If you're already set up, it shows your current status.
 
 ### `/subscribe`
-Displays available plans (Starter, Pro, Lifetime) and generates a crypto payment address. Send the exact amount in SOL or USDC to activate.
+Displays available plans (Starter, Pro, Lifetime) and generates a crypto payment address. Send the exact SOL amount shown in the bot to activate.
 
 ### `/setup`
 Prompts you for your Bybit API key and secret. Keys are encrypted and stored securely. You can re-run this command to update your keys at any time.

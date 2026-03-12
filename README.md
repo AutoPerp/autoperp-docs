@@ -16,7 +16,7 @@ AutoPerp is a Telegram-native trading bot that runs the V6 Strategy Engine — m
 ## Quick Start
 
 1. Open [@autoperpbot](https://t.me/autoperpbot) on Telegram and press `/start`
-2. Subscribe with `/subscribe` — choose Starter ($25/mo), Pro ($50/mo), or Lifetime ($500)
+2. Press **Start 14-day trial** (or subscribe if you prefer a paid plan)
 3. Set up your Bybit API keys with `/setup`
 4. Choose your risk profile with `/mode`
 5. Add tokens with `/addlist SOL,BTC,ETH` then `/applylist`

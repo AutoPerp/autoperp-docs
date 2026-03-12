@@ -81,7 +81,7 @@ An automatic safety stop that halts trading when risk limits are breached (5% da
 ## Subscription
 
 ### How do I pay?
-Crypto only — SOL or USDC. Type `/subscribe` in the bot and follow the payment flow.
+Crypto only — SOL. Type `/subscribe` in the bot and follow the payment flow.
 
 ### Can I upgrade my plan?
 Yes. Run `/subscribe` again and select the higher tier. Upgrades activate immediately.

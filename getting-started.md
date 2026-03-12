@@ -10,7 +10,7 @@ The bot will greet you and walk you through the initial setup.
 
 ## Step 2: Start Your Trial or Subscribe
 
-New users get a **14-day free Standard trial** automatically on first `/start`, or you can use `/trial` to begin it manually if prompted.
+New users are offered a **14-day free Standard trial** on `/start`. The trial begins only after pressing the **Start 14-day trial** button.
 
 When you're ready for a paid plan, type `/subscribe` to see available options:
 
@@ -20,7 +20,7 @@ When you're ready for a paid plan, type `/subscribe` to see available options:
 | **Pro** | $50/month | 5 concurrent positions, 20 pairs, scanner, advanced analytics |
 | **Lifetime** | $500 once | Everything in Pro, private strategy group, 1-on-1 support |
 
-Payment is handled via crypto (SOL or USDC). The bot generates a payment address — send the exact amount and confirmation is automatic.
+Payment is currently handled via crypto (SOL). The bot generates the address and exact amount — send it as shown and confirmation is automatic.
 
 ## Step 3: Set Up Your API Keys
 
