@@ -42,7 +42,7 @@ The reset is intentionally manual. It forces you to acknowledge the losses and m
 
 | Rule | Limit |
 |------|-------|
-| **Maximum concurrent positions** | 3 |
+| **Maximum concurrent positions** | Starter 2 • Pro/Lifetime 5 |
 | **Positions per symbol** | 1 (no duplicates) |
 | **Cooldown between new positions** | 5 minutes |
 | **Per-symbol cooldown after SL** | 2 hours |
@@ -50,7 +50,7 @@ The reset is intentionally manual. It forces you to acknowledge the losses and m
 
 ### Why These Limits Exist
 
-- **3 concurrent positions** — Prevents over-exposure. Even if all three hit SL simultaneously, the damage is contained.
+- **Plan-based concurrent position caps** — Starter users are capped at 2 concurrent positions; Pro and Lifetime users at 5. This prevents over-exposure while letting higher tiers run broader market coverage.
 - **1 per symbol** — No doubling down on a losing trade. If SOL hits your SL, you wait 2 hours before re-entering SOL.
 - **5-minute cooldown** — Prevents rapid-fire entries during volatile conditions.
 - **Direction balance** — If 70% of your recent trades are longs, the bot starts favoring shorts to maintain balance. Prevents directional concentration risk.
@@ -104,7 +104,7 @@ Many trading bots track stops locally — if the bot crashes, the stop disappear
 Max daily loss:           5%
 Max weekly loss:          10%
 Max drawdown from peak:   8%
-Max concurrent positions: 3
+Max concurrent positions: Starter 2 • Pro/Lifetime 5
 Max per trade:            35% of balance
 Consecutive loss halt:    4 trades
 Loss streak sizing:       50% for 3 trades after 3 losses

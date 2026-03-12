@@ -16,9 +16,9 @@ When you're ready for a paid plan, type `/subscribe` to see available options:
 
 | Plan | Price | What You Get |
 |------|-------|-------------|
-| **Starter** | $25/month | Up to 5x leverage, 5 pairs, V6 engine, Telegram control |
-| **Pro** | $50/month | Up to 25x leverage, 20 pairs, full MTF ladder, scanner |
-| **Lifetime** | $500 once | Unlimited everything, private strategy group, 1-on-1 support |
+| **Starter** | $25/month | 2 concurrent positions, 5 pairs, Long + Short, V6 engine |
+| **Pro** | $50/month | 5 concurrent positions, 20 pairs, scanner, advanced analytics |
+| **Lifetime** | $500 once | Everything in Pro, private strategy group, 1-on-1 support |
 
 Payment is handled via crypto (SOL or USDC). The bot generates a payment address — send the exact amount and confirmation is automatic.
 

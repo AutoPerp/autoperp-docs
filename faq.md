@@ -92,6 +92,9 @@ Simply don't renew. Your subscription expires at the end of the billing period. 
 ### Is there a free trial?
 Yes. New users get a **14-day free Standard trial** before choosing a paid plan.
 
+### What’s the difference between Starter and Pro?
+Starter gives you **2 concurrent positions** and **5 pairs**. Pro expands you to **5 concurrent positions**, **20 pairs**, plus scanner/filtering and deeper dashboard analytics.
+
 ## Support
 
 ### Where do I get help?
